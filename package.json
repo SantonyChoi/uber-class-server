@@ -1,0 +1,9 @@
+{
+  "name": "uber-class-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:SantonyChoi/uber-class-server.git",
+  "author": "seunghoon <santony.choi@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
